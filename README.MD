@@ -39,7 +39,7 @@ es decir aumentar el hardware por uno más potente, como disco duro, memoria, pr
 En el **grafico** se ve el intercambio de mensajes entre el emisor y el receptor
 El emisor hace una petición de tipo get hacia un receptor y el cual procesa la solicitud y envía un mensaje de respuesta von el código de estado 200 en este caso que significa que la petición fue llevada exitosamente.
 
-![Grafico Http](https://drive.google.com/open?id=1gCoC_h0ESPggUYEEGSg3TmN55EKUDbDT)
+![](https://1.bp.blogspot.com/-jmQUZD3X_3s/XVdrsLhkzOI/AAAAAAAAAcE/S41ON_3E5K4fsbFE_NYkNHYynsLQPLaXQCEwYBhgL/s320/primer%2Bgrafico.jpg)
 ## ELEMENTOS IMPORTANTES DE REQUEST EN HTTP
 Los Elementos importantes en request:
 - Método HTTP (HTTP Method): usualmente: GET, POST.
@@ -59,7 +59,7 @@ Los Elementos importantes en response:
 ## LA ARQUITECTURA JAVA EE
 **Java EE** proporciona una arquitectura multi-capa. La capa cliente puede estar constituida por aplicaciones Java de escritorio o navegadores HTML. Las capas proporcionadas por Java EE propiamente dicha son las capas Web (mediante las tecnologías Servlets, JSP y JSF) y las capas de Negocio (mediante tecnologías como EJB, JMS o Web Services). Por último, estas capas se comunican con una capa de datos (base de datos o aplicaciones y sistemas legacy).
 
-![Grafico Http](https://drive.google.com/file/d/1GvSJUMdAXLQCLSh6z1xglRwxX65kD3Ok/view?usp=sharing)
+![](https://1.bp.blogspot.com/-jjLugLMuPUQ/XVdrsKGmNZI/AAAAAAAAAcI/NmBb9ZVliyUbQ8GdAILZAkEEnxLBa3_DgCLcBGAs/s320/segundo%2Bgrafico.gif)
 
 ## CONTENEDORES, COMPONENTES Y SERVICIOS DE JAVA EE
 *Java Platform, Enterprise Edition (Java EE)*
@@ -122,4 +122,4 @@ Los componentes se despliegan y ejecutan en contenedores especializados
 	- doGet(HttpServletRequest request, HttpServletResponse response) 
 	- doPost(HttpServletRequest request, HttpServletResponse response)
 
-![Grafico Http](https://drive.google.com/file/d/1uDxlGi9bM4I2oD4QSSyCMEYN-HsAM93I/view?usp=sharing)
+![](https://1.bp.blogspot.com/--Ozg8zqDKOU/XVdrzhdmWKI/AAAAAAAAAcM/7mQXMzWO_eIyiWj_3YJvTKNsenFciXpgwCLcBGAs/s320/tercer%2Bgrafico.png)
